@@ -1,5 +1,5 @@
 <h1 align="center"> Bienvenue 👋</h1>
-<p align="center">Computer Engineer Student</p>
+<p align="center"><img src ="./Images/Bannière.png" width="650" height="150" ></p>
 
 <div style="background-color:rgb(247, 247, 247); border-radius: 10px; padding: 20px; margin-top: 20px;">
   <h2 style="color: rgb(22, 150, 0)" align="center">À propos de moi 🤖</h2>
@@ -21,6 +21,10 @@
     <img src="./Images/VisualStudio.png" alt="Visual Studio" width="150" height="100" style="border-radius: 10px;">
     <img src="./Images/Java.png" alt="Java" width="150" height="100" style="border-radius: 10px;">
     <img src="./Images/Figma.png" alt="Java" width="150" height="100" style="border-radius: 10px;">
+<img src="./Images/Arduino.png" alt="Java" width="150" height="100" style="border-radius: 10px;">
+<img src="./Images/Nodejs.png" alt="Java" width="150" height="100" style="border-radius: 10px;">
+<img src="./Images/React.png" alt="Java" width="150" height="100" style="border-radius: 10px;">
+<img src="./Images/Docker.png" alt="Java" width="150" height="100" style="border-radius: 10px;">
   </div>
 </div>
 
