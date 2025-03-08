@@ -1,5 +1,5 @@
 <h1 align="center"> Bienvenue 👋</h1>
-<p align="center"><img src ="./Images/Bannière.png" width="750" height="350" ></p>
+<p align="center"><img src ="./Images/Bannière.png" width="750" height="300" ></p>
 
 <div style="background-color:rgb(247, 247, 247); border-radius: 10px; padding: 20px; margin-top: 20px;">
   <h2 style="color: rgb(22, 150, 0)" align="center">À propos de moi 🤖</h2>
